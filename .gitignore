@@ -1,0 +1,8 @@
+.streamlit/
+.venv/
+__pycache__/
+*.ipynb
+66070251.md
+data/
+starter.py
+*.pyc
